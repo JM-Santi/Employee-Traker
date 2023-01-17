@@ -4,7 +4,7 @@
 
 ## Description
 
-A command line aplication that allow non-developers to easily view and interact with information stored in databases.
+A command line aplication that allows non-developers to easily view and interact with information stored in databases.
 
 ## Table of Contents
 
